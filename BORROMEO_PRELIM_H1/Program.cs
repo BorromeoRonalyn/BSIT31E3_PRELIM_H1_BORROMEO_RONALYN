@@ -1,4 +1,5 @@
 ﻿using System;
+//ugyifgfvytf
 using System.Collections.Generic;
 
 class Program
@@ -17,7 +18,7 @@ class Program
             Console.WriteLine("2. View All Students");
             Console.WriteLine("3. Compute Average Grade");
             Console.WriteLine("4. Find Highest Grade");
-            Console.WriteLine("5. Exit");
+            Console.WriteLine("6. Exit");
             Console.WriteLine("==========================");
             Console.Write("Choose an option: ");
 
